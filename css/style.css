@@ -1,0 +1,80 @@
+/* main section */
+
+.profile-img{
+  margin: 90px auto;
+  border-radius: 50%;
+}
+
+.heading-bg{
+  background: #eeeeee;
+}
+
+.heading-section{
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+/* about section */
+
+.about-section{
+  background: #777777;
+  color: white;
+  text-align: center;
+  margin: auto;
+}
+
+.about-me-p{
+  max-width: 400px;
+  text align: center;
+  margin-left: 90px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  float: left;
+}
+
+.tech-img{
+  max-height: 20%;
+  max-width: 20%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* PORTFOLIO SECTION */
+
+.portfolio-bg{
+  background: #eeeeee;
+}
+
+.projects{
+  margin: auto;
+  margin-top: 20px;
+}
+
+.project-row{
+  margin-top: 20px;
+}
+
+/* CONTACT AREA */
+
+.contact-section{
+  background: #777777;
+  color: white;
+}
+
+.contact-title{
+  margin-top: 20px;
+}
+
+.contact-col{
+  max-width: 500px;
+  margin-bottom: 20px;
+}
+
+/* FOOTER SECTION */
+
+.footer-section{
+  background: #333333;
+  color: grey;
+}
+
